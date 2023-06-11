@@ -117,11 +117,13 @@ else:
 
 ## Sample Input and Output
 
+### i) Use a linear search method to match the item in a list.
 ![image](https://github.com/Harinimuthu17/Search-Algorithm/assets/130278614/daac58d6-54f9-451c-8098-12cbf3f552ea)
 
+### ii)Find the element in a list using Binary Search(Iterative Method).
 ![image](https://github.com/Harinimuthu17/Search-Algorithm/assets/130278614/4f12b65d-be42-4525-89d6-18892d3e74df)
 
-
+### iii) Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/Harinimuthu17/Search-Algorithm/assets/130278614/b3b522ca-2024-4456-9387-d17d6830cff4)
 
 
